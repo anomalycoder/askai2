@@ -3,4 +3,4 @@ uvicorn
 python-dateutil
 word2number
 pydantic
-google-genai
+openai
