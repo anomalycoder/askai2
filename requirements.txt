@@ -1,6 +1,4 @@
 fastapi
 uvicorn
-python-dateutil
-word2number
+google-genai
 pydantic
-openai
